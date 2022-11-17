@@ -8,4 +8,4 @@ if len(full_name) == 10:
 elif len(full_name) > 10:
     print("Your name " + first_name + " " + last_name + " is longer than the average American name")
 else:
-    print("Your name " + first_name + " " + last_name + " is shorter than the average American name")
+    print("Your name " + first_name + " " + last_name + " is shorter than the average American name") 
